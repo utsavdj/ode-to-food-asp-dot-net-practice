@@ -1,0 +1,10 @@
+D:\Leap Frog\asp.net\OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.deps.json
+D:\Leap Frog\asp.net\OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+D:\Leap Frog\asp.net\OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+D:\Leap Frog\asp.net\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csproj.AssemblyReference.cache
+D:\Leap Frog\asp.net\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leap Frog\asp.net\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfoInputs.cache
+D:\Leap Frog\asp.net\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfo.cs
+D:\Leap Frog\asp.net\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+D:\Leap Frog\asp.net\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.dll
+D:\Leap Frog\asp.net\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.pdb
